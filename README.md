@@ -18,3 +18,7 @@ The problem is the that, the conversation which are happening are just verbal.  
 # Project Planning
 - Using AIMS GRID and Data Discovery
 ![atliq](https://github.com/lois4801/Hardware_company_sales_Analysis---SQL-to-PowerBI/assets/96842662/a14a714e-7bcf-412d-a696-73a501dc0ac5)
+
+
+
+![AltiQ Financial Sales Analysis image](https://github.com/lois4801/Hardware_company_sales_Analysis---SQL-to-PowerBI/assets/96842662/805823ad-6efd-49ec-afde-6a6d7be4063c)
