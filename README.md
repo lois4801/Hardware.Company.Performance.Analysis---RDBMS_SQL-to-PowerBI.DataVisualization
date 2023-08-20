@@ -41,6 +41,27 @@ Whenever they sell any computer or any products in any local region, it stores t
 
 ![d2](https://github.com/lois4801/Hardware_company_sales_Analysis---SQL-to-PowerBI/assets/96842662/957bc5b9-e94f-429e-a40d-f30407aa8994)
 
+![d3](https://github.com/lois4801/Hardware_company_sales_Analysis---SQL-to-PowerBI/assets/96842662/7880d8f2-4252-4bda-bf54-639fbc7e0d5b)
+
+- Some data has USD currency as well. Thus, I will be replacing it with USD. Right click the value and choose replace.
+- Or use a formula “= Table.ReplaceValue(#"Filtered Rows","USD","INR",Replacer.ReplaceText,{"currency"}) “
+
+  ![d4](https://github.com/lois4801/Hardware_company_sales_Analysis---SQL-to-PowerBI/assets/96842662/29f04ac5-f024-4b81-aedb-36a5d012067f)
+
+-	There are also duplicates detected via SQL. Using PowerBI, I removed all the duplicates, blank rows, and errors just to make sure that the data is clean. I applied it in all tables just to make sure as well. see images below on how I did it.
+
+![d5](https://github.com/lois4801/Hardware_company_sales_Analysis---SQL-to-PowerBI/assets/96842662/da065d7d-2f88-473c-ac91-306213d14f5d)
+
+![d6](https://github.com/lois4801/Hardware_company_sales_Analysis---SQL-to-PowerBI/assets/96842662/38ce73de-53bc-48a1-ac3a-ea354fca7f2b)
+
+- I also have to rename some of the table columns because the data were manually imported as all csv and not through connecting MySQL database. This will just allow me to easily distinguish things up during data selection during my dashboard design.
+
+  ![d7](https://github.com/lois4801/Hardware_company_sales_Analysis---SQL-to-PowerBI/assets/96842662/f9ad59b1-7108-4a8d-94e5-b3dc2c415fd7)
+
+
+  
+
+
 
 
 
