@@ -91,9 +91,11 @@ Whenever they sell any computer or any products in any local region, it stores t
 
 ![AltiQ Financial Sales Analysis image](https://github.com/lois4801/Hardware_company_sales_Analysis---SQL-to-PowerBI/assets/96842662/805823ad-6efd-49ec-afde-6a6d7be4063c)
 
-## To Request for an access to my PowerBI Dashbaord. Kindly please follow me first in github and click this link to motivate me to share more projects like this.Thanks for the support.
+## To Request for an access to my PowerBI Dashbaord. Kindly please follow me first in github and linkedIn and click this link to motivate me to share more projects like this.Thanks for the support( https://github.com/lois4801 , https://www.linkedin.com/in/artemis-jay/).
 
 https://drive.google.com/file/d/18SLlnNLObPmyZ5cAuKBmiHN2iBaxLrOv/view?usp=sharing 
+
+
 
 # Answers
 - What are the top 4 strongest and 4 weakest stores performance by revenue in the market from 2017 to 2020?
