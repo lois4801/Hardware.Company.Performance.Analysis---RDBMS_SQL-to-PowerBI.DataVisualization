@@ -7,7 +7,7 @@ LinkedIn>>>>> https://www.linkedin.com/in/artemis-jay/).
 
 # Hardware_Company_Performance_Analysis--DBMS SQL-to-PowerBI
 
-# Problem Statement:
+## Problem Statement:
 - AtliQ Hardware is a company which supplies computer hardware peripherals to many of the clients. They have this client called Surge stores, Nomad Stores, Excel Stores, Electricalsara Stores across India and they supply all these equipment to them .
   
 -  Now AtliQ hardware has a head office in Delhi and other regional offices throughout India. 
@@ -26,7 +26,7 @@ Now, Bhavan Patel is a sales director for this company and he is facing a lot of
 -	Do a trend analysis of my sales and revenue from 2017 to 2020 . Create a summary. 
 
 
-# Project Planning
+## Project Planning
 - Using AIMS GRID and Data Discovery
 ![atliq](https://github.com/lois4801/Hardware_company_sales_Analysis---SQL-to-PowerBI/assets/96842662/a14a714e-7bcf-412d-a696-73a501dc0ac5)
 
@@ -41,7 +41,7 @@ Whenever they sell any computer or any products in any local region, it stores t
 - For this project, I have extracted the data tables from the DATABASE SALES from MySQL and imported in the PowerBi for analysis, cleaning and transformation. Look into my files under this project to download all the raw files to used in the PowerBI
 
 
-# Data Cleaning
+## Data Cleaning
 -	Instead of doing data cleaning in SQL. This time data I  will be doing data analysis, data cleaning and data transformation through PowerBI.
 
 
@@ -72,7 +72,7 @@ Whenever they sell any computer or any products in any local region, it stores t
 
   ![d7](https://github.com/lois4801/Hardware_company_sales_Analysis---SQL-to-PowerBI/assets/96842662/f9ad59b1-7108-4a8d-94e5-b3dc2c415fd7)
 
-# Dashboard Troubleshooting
+## Dashboard Troubleshooting
 
 ####	Removing Blank Year in the slicer
 -	The ‘blank’ year keeps appearing. I have tried looking in transform data section but it isn’t there. There are no data that says blank either.
@@ -104,7 +104,7 @@ https://drive.google.com/file/d/18SLlnNLObPmyZ5cAuKBmiHN2iBaxLrOv/view?usp=shari
 
 
 
-# Answers
+## Answers
 - What are the top 4 strongest and 4 weakest stores performance by revenue in the market from 2017 to 2020?
   -- 4 strongest stores by revenue- Premium, Surge, Logic, and Sound
   -- 4 weakest stores by revenue- Acclaimed, Power, Electricalslytical, Nixon 
@@ -119,7 +119,7 @@ https://drive.google.com/file/d/18SLlnNLObPmyZ5cAuKBmiHN2iBaxLrOv/view?usp=shari
 - What are my top 5 products?
   -- Top 5 Products – 003, 013, 017, 011, 001
 
-# TREND ANALYSIS SUMMARY
+## TREND ANALYSIS SUMMARY
 - Revenue trended up, resulting in a 373.91% increase between Monday, January 1, 2018 and Saturday, December 1, 2018.-
 - Revenue started trending up on Monday, January 1, 2018, rising by 373.91% (813979) in 334 days.
 - Revenue jumped from 217693 to 1031672 during its steepest incline between Monday, January 1, 2018 and Saturday, December 1, 2018.
@@ -129,6 +129,6 @@ https://drive.google.com/file/d/18SLlnNLObPmyZ5cAuKBmiHN2iBaxLrOv/view?usp=shari
 - Electricalslytical accounted for 21.48% of Revenue.
 - Across all 22 customer_name, Sales Qty ranged from 6 to 975.
 
-# EXTRA NOTES
+## EXTRA NOTES
 - Revenue and sales actual results decreased due to data anomalies that has been cleaned and transformed during the process. 
 
