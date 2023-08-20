@@ -65,17 +65,26 @@ Whenever they sell any computer or any products in any local region, it stores t
   
 -	So the only way to do it that I found is to filter it in the FILTERS SECTION in the report view where I am doing my dashboard. Then select  “IS NOT BLANK”
 
-  ![d8](https://github.com/lois4801/Hardware_company_sales_Analysis---SQL-to-PowerBI/assets/96842662/265898e5-8bf5-406a-a753-91af2551c690)
+ ![d8](https://github.com/lois4801/Hardware_company_sales_Analysis---SQL-to-PowerBI/assets/96842662/2d346add-594f-419a-bba5-7f2d93f40f09)
+
 
 #### Format changing for the  Year slicer
+-	Select data view. Then select column tools then change the format of the date into  (mm- yy ) for Jan 2018.
+-	The data is from yyyy-mm-dd  transformed into mm-yy
+  
+-	1. First, select DATA View on the left side corner of the PowerBI
+-	2.Second, choose the data table where you want to change the format
 
--	Select data view. Then select column tools then change the format of the date into  (mmm yy ) for Jan 2018.
+![d9](https://github.com/lois4801/Hardware_company_sales_Analysis---SQL-to-PowerBI/assets/96842662/220549e3-f4e4-49ab-8d09-202ab4c27486)
+
+- 3. Third, choose the column to be changed. Under the column tools, select 
+
+![d10](https://github.com/lois4801/Hardware_company_sales_Analysis---SQL-to-PowerBI/assets/96842662/594a508f-980b-46ba-a471-e4547e7fb653)
 
 
 
 
-
-
+![giphy (1)](https://github.com/lois4801/Hardware_company_sales_Analysis---SQL-to-PowerBI/assets/96842662/da4e6110-f0ca-4591-9ff8-1c344c79b1dc)
 
 
 
