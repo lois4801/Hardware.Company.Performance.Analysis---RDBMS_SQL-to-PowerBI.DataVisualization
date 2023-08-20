@@ -30,6 +30,8 @@ Whenever they sell any computer or any products in any local region, it stores t
 
 ![Screenshot 2023-08-19 215315](https://github.com/lois4801/Hardware_company_sales_Analysis---SQL-to-PowerBI/assets/96842662/156285f9-031b-4911-ad32-24dcb2ac969f)
 
+- For this project, I have extracted the data tables from the DATABASE SALES from MySQL and imported in the PowerBi for analysis, cleaning and transformation. Look into my files under this project to download all the raw files to used in the PowerBI
+
 
 # Data Cleaning
 -	Instead of doing data cleaning in SQL. This time data I  will be doing data analysis, data cleaning and data transformation through PowerBI.
