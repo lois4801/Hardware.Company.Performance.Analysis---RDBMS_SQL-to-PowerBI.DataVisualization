@@ -63,7 +63,7 @@ Whenever they sell any computer or any products in any local region, it stores t
 ####	Removing Blank Year in the slicer
 -	The ‘blank’ year keeps appearing. I have tried looking in transform data section but it isn’t there. There are no data that says blank either.
   
--	So the only way to do it that I found is to filter it in the FILTERS SECTION in the report view where I am doing my dashboard. Then select  “IS NOT BLANK”
+-	So the only way to do it that I found is to filter it in the FILTERS SECTION in the report view where I am doing my dashboard. Then select  “ IS BLANK”
 
  ![d8](https://github.com/lois4801/Hardware_company_sales_Analysis---SQL-to-PowerBI/assets/96842662/2d346add-594f-419a-bba5-7f2d93f40f09)
 
@@ -73,25 +73,20 @@ Whenever they sell any computer or any products in any local region, it stores t
 -	The data is from yyyy-mm-dd  transformed into mm-yy
   
 -	1. First, select DATA View on the left side corner of the PowerBI
--	2.Second, choose the data table where you want to change the format
+-	2. Second, choose the data table where you want to change the format
 
 ![d9](https://github.com/lois4801/Hardware_company_sales_Analysis---SQL-to-PowerBI/assets/96842662/220549e3-f4e4-49ab-8d09-202ab4c27486)
 
-- 3. Third, choose the column to be changed. Under the column tools, select 
+- 3. Third, choose the column to be changed. Under the column tools, select format and change to mm-yy or mmm-yy
 
 ![d10](https://github.com/lois4801/Hardware_company_sales_Analysis---SQL-to-PowerBI/assets/96842662/594a508f-980b-46ba-a471-e4547e7fb653)
-
-
 
 
 ![giphy (1)](https://github.com/lois4801/Hardware_company_sales_Analysis---SQL-to-PowerBI/assets/96842662/da4e6110-f0ca-4591-9ff8-1c344c79b1dc)
 
 
-
-
-
-
-
-
-
 ![AltiQ Financial Sales Analysis image](https://github.com/lois4801/Hardware_company_sales_Analysis---SQL-to-PowerBI/assets/96842662/805823ad-6efd-49ec-afde-6a6d7be4063c)
+
+https://drive.google.com/file/d/18SLlnNLObPmyZ5cAuKBmiHN2iBaxLrOv/view?usp=sharing 
+
+
