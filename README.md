@@ -5,7 +5,7 @@
 Github>>>>>>>https://github.com/lois4801  
 LinkedIn>>>>> https://www.linkedin.com/in/artemis-jay/).
 
-# Hardware_Company_Sales_Analysis---SQL-to-PowerBI
+# Hardware_Company_Sales_Analysis--DBMS SQL-to-PowerBI
 
 # Problem Statement:
 - AtliQ Hardware is a company which supplies computer hardware peripherals to many of the clients. They have this client called Surge stores, Nomad Stores, Excel Stores, Electricalsara Stores across India and they supply all these equipment to them .
