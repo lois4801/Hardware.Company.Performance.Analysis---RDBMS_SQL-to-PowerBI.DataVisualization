@@ -20,5 +20,17 @@ The problem is the that, the conversation which are happening are just verbal.  
 ![atliq](https://github.com/lois4801/Hardware_company_sales_Analysis---SQL-to-PowerBI/assets/96842662/a14a714e-7bcf-412d-a696-73a501dc0ac5)
 
 
+## NOTES:
+- Falcons (Software Engineers) owns the management system that  AtliQ Hardware used. He has his sales use a management system that keeps track of all the sales number.  
+Whenever they sell any computer or any products in any local region, it stores the data in Falcon’s DBMS 
+
+![Screenshot 2023-08-19 215315](https://github.com/lois4801/Hardware_company_sales_Analysis---SQL-to-PowerBI/assets/96842662/156285f9-031b-4911-ad32-24dcb2ac969f)
+
+
+Data Cleaning
+-	Instead of doing data cleaning in SQL. This time data I  will be doing data analysis, data cleaning and data transformation through PowerBI.
+
+
+
 
 ![AltiQ Financial Sales Analysis image](https://github.com/lois4801/Hardware_company_sales_Analysis---SQL-to-PowerBI/assets/96842662/805823ad-6efd-49ec-afde-6a6d7be4063c)
