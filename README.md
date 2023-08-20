@@ -7,13 +7,17 @@
 Now, Bhavan Patel is a sales director for this company and he is facing a lot of challenges. One of the challenges would be about the market growth, and issues in terms of tracking the sales in this dynamically growing market. Another would be issues about the insights of his business. 
 
 - He has this Regional Managers for North India, South India, and Central India. Whenever he gets insights about these three regions, he would call these people on the phone.  Then these regional managers will give him some insights about what was the sales last quarter and we going to grow by this much in the next quarter. 
-The problem is the that, the conversation which are happening are just verbal.  Based from the statement of the owner, there are this habit that all the mangers try to paint a rosy picture and try to sugar coat some things. They don’t want to look bad. When Bhavin Patel ask for an Insights , they will give him a lot of excel files like 69 files. 
+- The problem is the that, the conversation which are happening are just verbal.  Based from the statement of the owner, there are this habit that all the mangers try to paint a rosy picture and try to sugar coat some things. They don’t want to look bad. When Bhavin Patel ask for an Insights , they will give him a lot of excel files like 69 files.
+- He is interested in getting a simple understandable digestible insight. He wants to see a dashboard where he can just open his chart and how the numbers trending. 
 
-### CEO request
-- Find what are the weakest areas that we need to focus.
-- He is interested in getting a simple understandable digestible insight.
-- He wants to see a dashboard where he can just open his chart and how the numbers trending.
-- He wants to set daily email daily reminders.  At the end of the month, he wants PowerBi will send him an email saying that this is how the business looks in terms of revenue, customers etc. 
+### CEO Questions that needed to be answered
+-	What are the top 4 strongest and 4 weakest stores performance by revenue in the market from 2017 to 2020?
+-	What are the top 4 strongest and 4 weakest stores performance by sales in the market from 2017 to 2020?
+-	Who are my top 5 customer leads?
+-	What are my top 5 products performing well?
+-	Provide button for me just click to ideally know what are my revenue and sales yearly, and see its respective stores performance.
+-	Do a trend analysis of my sales and revenue from 2017 to 2020 . Create a summary. 
+
 
 # Project Planning
 - Using AIMS GRID and Data Discovery
@@ -87,6 +91,34 @@ Whenever they sell any computer or any products in any local region, it stores t
 
 ![AltiQ Financial Sales Analysis image](https://github.com/lois4801/Hardware_company_sales_Analysis---SQL-to-PowerBI/assets/96842662/805823ad-6efd-49ec-afde-6a6d7be4063c)
 
+## To Request for an access to my PowerBI Dashbaord. Kindly please follow me first in github and click this link to motivate me to share more projects like this.Thanks for the support.
+
 https://drive.google.com/file/d/18SLlnNLObPmyZ5cAuKBmiHN2iBaxLrOv/view?usp=sharing 
+
+# Answers
+- What are the top 4 strongest and 4 weakest stores performance by revenue in the market from 2017 to 2020?
+  -- 4 strongest stores by revenue- Premium, Surge, Logic, and Sound
+  -- 4 weakest stores by revenue- Acclaimed, Power, Electricalslytical, Nixon 
+
+- 	What are the top 4 strongest and 4 weakest stores performance by sales in the market from 2017 to 2020?
+  -- o	4 strongest stores by sales- Premium, Surge, Electricalsara, and Logic
+  -- o	4 weakest stores by sales- Acclaimed, Power, Electricalslytical, Nixon 
+
+  -  ho are my top 5 customers ?
+  -- Top 5 Customer Leads- Premium, Surge, Logic, Sound, Electricalsara
+
+- What are my top 5 products?
+  -- Top 5 Products – 003, 013, 017, 011, 001
+
+# TREND ANALYSIS SUMMARY
+- Revenue trended up, resulting in a 373.91% increase between Monday, January 1, 2018 and Saturday, December 1, 2018.-
+- Revenue started trending up on Monday, January 1, 2018, rising by 373.91% (813979) in 334 days.
+- Revenue jumped from 217693 to 1031672 during its steepest incline between Monday, January 1, 2018 and Saturday, December 1, 2018.
+- At 1650908, Electricalslytical had the highest Revenue and was 27,124.74% higher than Electricalsquipo Stores, which had the lowest Revenue at 6064
+- At 1650908, Electricalslytical had the highest Revenue and was 27,124.74% higher than Electricalsquipo Stores, which had the lowest Revenue at 6064
+- At 1650908, Electricalslytical had the highest Revenue and was 27,124.74% higher than Electricalsquipo Stores, which had the lowest Revenue at 6064
+- Electricalslytical accounted for 21.48% of Revenue.
+- Across all 22 customer_name, Sales Qty ranged from 6 to 975.
+
 
 
