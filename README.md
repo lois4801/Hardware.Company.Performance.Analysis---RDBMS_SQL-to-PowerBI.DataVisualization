@@ -1,5 +1,10 @@
 ![giphy (1)](https://github.com/lois4801/Hardware_company_sales_Analysis---SQL-to-PowerBI/assets/96842662/da4e6110-f0ca-4591-9ff8-1c344c79b1dc)
 
+- For more projects to share like this. Please support me by following me in my social media accounts. 
+
+Github>>>>>>>>https://github.com/lois4801  
+LinkedIn>>>>> https://www.linkedin.com/in/artemis-jay/).
+
 # Hardware_company_sales_Analysis---SQL-to-PowerBI
 
 # Problem Statement:
