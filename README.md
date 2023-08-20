@@ -58,8 +58,21 @@ Whenever they sell any computer or any products in any local region, it stores t
 
   ![d7](https://github.com/lois4801/Hardware_company_sales_Analysis---SQL-to-PowerBI/assets/96842662/f9ad59b1-7108-4a8d-94e5-b3dc2c415fd7)
 
+# Dashboard Troubleshooting
 
+####	Removing Blank Year in the slicer
+-	The ‘blank’ year keeps appearing. I have tried looking in transform data section but it isn’t there. There are no data that says blank either.
   
+-	So the only way to do it that I found is to filter it in the FILTERS SECTION in the report view where I am doing my dashboard. Then select  “IS NOT BLANK”
+
+  ![d8](https://github.com/lois4801/Hardware_company_sales_Analysis---SQL-to-PowerBI/assets/96842662/265898e5-8bf5-406a-a753-91af2551c690)
+
+#### Format changing for the  Year slicer
+
+-	Select data view. Then select column tools then change the format of the date into  (mmm yy ) for Jan 2018.
+
+
+
 
 
 
