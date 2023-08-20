@@ -122,5 +122,6 @@ https://drive.google.com/file/d/18SLlnNLObPmyZ5cAuKBmiHN2iBaxLrOv/view?usp=shari
 - Electricalslytical accounted for 21.48% of Revenue.
 - Across all 22 customer_name, Sales Qty ranged from 6 to 975.
 
-
+# EXTRA NOTES
+- Revenue and sales actual results decreased due to data anomalies that has been cleaned and transformed during the process. 
 
