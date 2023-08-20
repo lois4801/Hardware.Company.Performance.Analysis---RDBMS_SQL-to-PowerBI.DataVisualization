@@ -27,8 +27,26 @@ Whenever they sell any computer or any products in any local region, it stores t
 ![Screenshot 2023-08-19 215315](https://github.com/lois4801/Hardware_company_sales_Analysis---SQL-to-PowerBI/assets/96842662/156285f9-031b-4911-ad32-24dcb2ac969f)
 
 
-Data Cleaning
+# Data Cleaning
 -	Instead of doing data cleaning in SQL. This time data I  will be doing data analysis, data cleaning and data transformation through PowerBI.
+
+
+### Under Markets table
+- Two data ha no zone
+  
+![d1](https://github.com/lois4801/Hardware_company_sales_Analysis---SQL-to-PowerBI/assets/96842662/42bffdae-530c-4179-9764-8a407dba5a26)
+
+### Under the transactions
+- Negative sales amount and zero amount can be recovered . Thus, I will  uncheck those to filter out my unnecessary data.
+
+![d2](https://github.com/lois4801/Hardware_company_sales_Analysis---SQL-to-PowerBI/assets/96842662/957bc5b9-e94f-429e-a40d-f30407aa8994)
+
+
+
+
+
+
+
 
 
 
