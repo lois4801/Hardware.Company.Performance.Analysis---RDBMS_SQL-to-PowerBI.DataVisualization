@@ -1,3 +1,5 @@
+![giphy (1)](https://github.com/lois4801/Hardware_company_sales_Analysis---SQL-to-PowerBI/assets/96842662/da4e6110-f0ca-4591-9ff8-1c344c79b1dc)
+
 # Hardware_company_sales_Analysis---SQL-to-PowerBI
 
 # Problem Statement:
@@ -86,9 +88,6 @@ Whenever they sell any computer or any products in any local region, it stores t
 - 3. Third, choose the column to be changed. Under the column tools, select format and change to mm-yy or mmm-yy
 
 ![d10](https://github.com/lois4801/Hardware_company_sales_Analysis---SQL-to-PowerBI/assets/96842662/594a508f-980b-46ba-a471-e4547e7fb653)
-
-
-![giphy (1)](https://github.com/lois4801/Hardware_company_sales_Analysis---SQL-to-PowerBI/assets/96842662/da4e6110-f0ca-4591-9ff8-1c344c79b1dc)
 
 
 ![AltiQ Financial Sales Analysis image](https://github.com/lois4801/Hardware_company_sales_Analysis---SQL-to-PowerBI/assets/96842662/805823ad-6efd-49ec-afde-6a6d7be4063c)
