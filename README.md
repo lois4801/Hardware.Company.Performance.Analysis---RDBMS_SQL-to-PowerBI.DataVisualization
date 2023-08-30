@@ -113,7 +113,7 @@ https://drive.google.com/file/d/18SLlnNLObPmyZ5cAuKBmiHN2iBaxLrOv/view?usp=shari
   -- o	4 strongest stores by sales- Premium, Surge, Electricalsara, and Logic
   -- o	4 weakest stores by sales- Acclaimed, Power, Electricalslytical, Nixon 
 
-  -  ho are my top 5 customers ?
+- Who are my top 5 customers ?
   -- Top 5 Customer Leads- Premium, Surge, Logic, Sound, Electricalsara
 
 - What are my top 5 products?
