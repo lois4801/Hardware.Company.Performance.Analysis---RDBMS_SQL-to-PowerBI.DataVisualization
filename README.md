@@ -14,7 +14,7 @@ LinkedIn>>>>> https://www.linkedin.com/in/artemis-jay/).
 Now, Bhavan Patel is a sales director for this company and he is facing a lot of challenges. One of the challenges would be about the market growth, and issues in terms of tracking the sales in this dynamically growing market. Another would be issues about the insights of his business. 
 
 - He has this Regional Managers for North India, South India, and Central India. Whenever he gets insights about these three regions, he would call these people on the phone.  Then these regional managers will give him some insights about what was the sales last quarter and we going to grow by this much in the next quarter. 
-- The problem is the that, the conversation which are happening are just verbal.  Based from the statement of the owner, there are this habit that all the mangers try to paint a rosy picture and try to sugar coat some things. They don’t want to look bad. When Bhavin Patel ask for an Insights , they will give him a lot of excel files like 69 files.
+- The problem lies in the fact that conversation happening are just verbal.  Based from the statement of the owner, there are this habit that all the mangers try to paint a rosy picture and try to sugar coat some things. They don’t want to look bad. When Bhavin Patel ask for an Insights , they will give him a lot of excel files like 69 files.
 - He is interested in getting a simple understandable digestible insight. He wants to see a dashboard where he can just open his chart and how the numbers trending. 
 
 ### CEO Questions that needed to be answered
