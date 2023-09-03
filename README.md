@@ -9,6 +9,7 @@ LinkedIn>>>>> https://www.linkedin.com/in/artemis-jay/).
 
 ## Problem Statement:
 - AtliQ Hardware is a company which supplies computer hardware peripherals to many of the clients. They have this client called Surge stores, Nomad Stores, Excel Stores, Electricalsara Stores across India and they supply all these equipment to them .
+
   
 -  Now AtliQ hardware has a head office in Delhi and other regional offices throughout India. 
 Now, Bhavan Patel is a sales director for this company and he is facing a lot of challenges. One of the challenges would be about the market growth, and issues in terms of tracking the sales in this dynamically growing market. Another would be issues about the insights of his business. 
